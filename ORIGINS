@@ -1,0 +1,14 @@
+AUTHOR: Prudhvi Raj Meda
+
+The packages required to be installed to run the code
+1) Numpy
+
+http://www.scipy.org/scipylib/building/linux.html#generic-instructions
+
+2) Scikit-learn
+
+http://scikit-learn.org/stable/developers/advanced_installation.html
+
+3) NLTK
+
+http://www.nltk.org/install.html  
